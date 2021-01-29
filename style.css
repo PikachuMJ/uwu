@@ -1,0 +1,18 @@
+.Videos {
+  font-size: 20px;
+  color: black;
+  border: solid 1px;
+  height: 900px;
+  background: linear-gradient(90deg, white, black)
+}
+
+ .acc {
+   font-size: 25px;
+   border: solid 1px red;
+   width: 100px
+ }
+
+ img {
+ width: 500px;
+ border-radius: 250px;
+ }
